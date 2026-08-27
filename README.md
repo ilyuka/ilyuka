@@ -1,6 +1,6 @@
 # Ilya Shulepov
 
-Independent researcher and software engineer focused on reproducibility,
+Software engineer and independent researcher working on reproducibility,
 research software, and machine-learning software engineering.
 
 ### Current work
@@ -19,10 +19,9 @@ cross-validation configuration.
 
 ### Background
 
+- Former **DevOps Engineer at SberTech (Sber)**
 - BSc in **Information Systems and Technologies**, with honors
 - MSc candidate working at the intersection of **AI, NLP, LLMs, and software systems**
-- Previous experience as a **DevOps Engineer**
-- Former DevOps Engineer at SberTech (Sber)
 
 ### Research interests
 
