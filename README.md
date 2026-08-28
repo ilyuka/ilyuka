@@ -17,6 +17,12 @@ cross-validation configuration.
 **[Zenodo archive](https://doi.org/10.5281/zenodo.22126120)** ·
 **[Documentation](https://github.com/ilyuka/MLReproMutate#readme)**
 
+### Research
+
+**[Mutation Testing for Reproducibility Safeguards in Machine Learning
+Research Software: An Empirical Study](https://arxiv.org/abs/2608.27100)**  
+arXiv:2608.27100 · cs.SE · 2026
+
 ### Background
 
 - Former **DevOps Engineer at SberTech (Sber)**
